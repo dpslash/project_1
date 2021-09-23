@@ -5,7 +5,7 @@ Submission for Cybersecurity Bootcamp Project 1
 
 The files in this repository were used to configure the network depicted below.
 
-~/Documents/UofU\ Cybersecurity\ Bootcamp/13.\ Project\ 1/Full-Diagram.PNG
+![Full-Diagram](https://user-images.githubusercontent.com/74391510/134456193-7b517985-4a97-4834-8896-bc7b5cb0e7a2.PNG)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -77,7 +77,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-~/Documents/UofU\ Cybersecurity\ Bootcamp/13.\ Project\ 1/Day\ 1/elk\ container.PNG
+![elk container](https://user-images.githubusercontent.com/74391510/134456234-2544c064-da78-4142-b551-34893129f33e.PNG)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
